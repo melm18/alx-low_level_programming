@@ -1,5 +1,3 @@
-vi 102-fibonacci.c
-
 #include <stdio.h>
 
 /**
