@@ -23,8 +23,3 @@ void puts_half(char *str)
 		_putchar(str[i]);
 	_putchar('\n');
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-
